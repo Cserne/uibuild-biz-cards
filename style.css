@@ -53,6 +53,11 @@ p {
     #root {
       flex-direction: column;
       justify-content: space-evenly;
+      align-items: center;
     }
 
+    #root div {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
 }
